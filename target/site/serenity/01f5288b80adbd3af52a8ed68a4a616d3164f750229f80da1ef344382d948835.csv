@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Reqres CRUD test","Create an User Successfully and verify name added","SUCCESS","2020-05-19T22:50:51.939+01:00[Europe/London]","0.0","25.18"
+"Reqres CRUD test","Getting User from the record","SUCCESS","2020-05-19T22:51:18.149+01:00[Europe/London]","0.0","0.95"
+"Reqres CRUD test","This test will update details of an user with ID5","SUCCESS","2020-05-19T22:51:19.115+01:00[Europe/London]","0.0","0.92"
+"Reqres CRUD test","This test will delete an User","SUCCESS","2020-05-19T22:51:20.033+01:00[Europe/London]","0.0","0.92"
